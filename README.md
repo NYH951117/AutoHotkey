@@ -3,7 +3,7 @@
 ## 发布：
 
 * https://nyh951117.github.io/AutoHotkey/
-* https://nyh951117.gitee.io/auto-hotkey/
+* https://nyh951117.gitee.io/autohotkey/
 
 
 ## 修改编辑命令
