@@ -1,7 +1,9 @@
-
- https://nyh951117.gitee.io/auto-hotkey
-
 # AutoHotkey
+
+## 发布：
+
+* https://nyh951117.github.io/AutoHotkey/
+* https://nyh951117.gitee.io/auto-hotkey
 
 
 ## 修改编辑命令

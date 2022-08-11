@@ -931,7 +931,7 @@ function ctor_structure()
                          'zh': 'https://wyagd001.github.io/zh-cn/docs/' },
                  'v2': { 'en': 'https://lexikos.github.io/v2/docs/',
                          'de': 'https://ahkde.github.io/v2/docs/',
-                         'zh': 'https://wyagd001.github.io/v2/docs/' } }
+                         'zh': 'https://nyh951117.github.io/AutoHotkey/' } }
 
     var $langList = $online.find('ul.languages')
     var $verList = $online.find('ul.versions')
