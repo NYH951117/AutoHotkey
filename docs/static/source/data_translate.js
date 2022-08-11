@@ -30,7 +30,7 @@ translateData = {
   "v1":true,
   "Change the version":"更换版本",
   "Edit this document on GitHub":"在 GitHub 编辑文档",
-  "https://github.com/Lexikos/AutoHotkey_L-Docs/edit/master/docs/":"https://gitee.com/nyh951117/auto-hotkey/edit/master/docs/",
+  "https://github.com/Lexikos/AutoHotkey_L-Docs/edit/master/docs/":"https://gitee.com/nyh951117/AutoHotkey/edit/master/docs/",
   "Go back":"后退",
   "Go forward":"前进",
   "Change the font size":"更改字体大小",
